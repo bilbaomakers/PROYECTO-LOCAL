@@ -18,6 +18,8 @@ Para actualizar la documentacion hacerlo en el sitio publico creado a tal efecto
 
 Los proyectos deberan cubrir las condiciones que hay en el pliego de condiciones de Github (https://github.com/bilbaomakers/PROYECTO-LOCAL/blob/master/Pliego%20condiciones%20local%20Bilbaomakers.ods)
 
+Para cualquier cambio en las condiciones contactar con la junta directiva via Telegram.
+
 
 # PROYECTOS
 
